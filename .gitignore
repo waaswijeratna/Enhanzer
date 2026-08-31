@@ -1,0 +1,39 @@
+# .NET / ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.exe
+*.apphost
+*.log
+
+# VS / VS Code
+.vs/
+.vscode/
+*.code-workspace
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+coverage/
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# SQL backups / local data
+*.bak
+*.mdf
+*.ldf
+
+# Misc
+*.orig
